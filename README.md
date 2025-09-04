@@ -8,7 +8,7 @@ Hi, I'm extazzydouble — a Python backend developer passionate about building a
 ![](https://github-readme-stats.vercel.app/api?username=extazzydouble&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=extazzydouble&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=extazzydouble&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-
+![](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ---
 [![](https://visitcount.itsvg.in/api?id=extazzydouble&icon=0&color=0)](https://visitcount.itsvg.in)
 
